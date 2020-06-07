@@ -83,7 +83,12 @@ line-height: 1.4;
     align-items: start;
     justify-content: center;
     box-shadow: var(--shadow);
+}
 
+.showcase h1 {
+    font-size: 4rem;
+    margin-bottom: 0;
+    color: var(--light);
 }
 
 .top-box-a {
