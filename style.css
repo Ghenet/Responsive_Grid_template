@@ -91,6 +91,12 @@ line-height: 1.4;
     color: var(--light);
 }
 
+.showcase p {
+    font-size: 1.3rem;
+    margin-top:0;
+    color: var(--light);
+}
+
 .top-box-a {
     grid-area: top-box-a;
 }
