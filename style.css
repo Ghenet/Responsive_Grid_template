@@ -182,4 +182,9 @@ line-height: 1.4;
      .info {
         grid-template-columns: 1fr;
     }
+    .info .btn {
+        display: block;
+        text-align: center;
+        margin: auto;
+    }
  }
