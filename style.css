@@ -179,4 +179,7 @@ line-height: 1.4;
      .main-nav ul {
          grid-template-columns: 1fr;
      }
+     .info {
+        grid-template-columns: 1fr;
+    }
  }
